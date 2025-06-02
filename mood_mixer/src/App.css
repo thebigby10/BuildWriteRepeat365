@@ -1,0 +1,59 @@
+/* App.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffe6e1; /* Main page background */
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #ff3f33;
+}
+
+.mood_input,
+.mood_viewer {
+    width: 90%; /* Slight padding on both sides */
+    max-width: 800px; /* Optional: constrain width on larger screens */
+    margin: 20px auto; /* Vertically spaced and centered horizontally */
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+/* Mood Input Section */
+.mood_input {
+    height: 30vh;
+    background-color: #9fc87e; /* Calm green tone */
+    color: #075b5e;
+}
+
+/* Mood Viewer Section */
+.mood_viewer {
+    height: 55vh;
+    background-color: #075b5e; /* Deep teal */
+    color: #ffe6e1;
+}
+
+.slider_row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    gap: 20px;
+    width: 100%;
+}
+
+.slider_row label {
+    width: 60px;
+    font-weight: bold;
+    color: #075b5e;
+    text-align: right;
+}
+
+.slider_container {
+    flex: 1;
+    padding: 0 20px;
+}
