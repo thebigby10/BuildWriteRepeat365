@@ -1,0 +1,67 @@
+Coding Challenges
+
+    Solve 1 easy-medium LeetCode problem daily.
+
+    Build a CLI tool to automate a small task on your Linux (e.g., batch rename files).
+
+    Fix one bug in your current project every week.
+
+    Implement a classic algorithm visually (sorting or pathfinding) using Python or JS.
+
+    Build a tiny anime quote generator web app or terminal tool.
+
+    Learn and experiment with Svelte or another new framework for 1 day.
+
+    Contribute to an open-source repo by submitting a typo fix or doc update.
+
+    Write a short blog post or Twitter thread about a coding trick you learned.
+
+    Join a timed coding contest (Codeforces, AtCoder) once a week or biweekly.
+
+    Build an API endpoint with Django or FastAPI — simple CRUD for “anime watchlist.”
+
+Personal Skill Challenges
+
+    Typing Speed: Practice typing with a goal of reaching 150 WPM using typing sites like Keybr, 10FastFingers, or TypeRacer.
+
+    Customize your Manjaro or Arch Linux setup weekly (e.g., new tmux config, shell prompt, or polybar setup).
+
+    Spend 10 minutes daily organizing your notes in Obsidian — tag and link them.
+
+    Watch 1 short technical video (CS topic, Linux tips) and take notes.
+
+    Practice explaining a technical concept aloud to yourself or record a short voice note.
+
+    Meditate or do breathing exercises for 5 minutes to reset focus.
+
+    Draw or design a simple UI layout for your next project in Inkscape or Figma.
+
+    Create a daily habit tracker in your favorite app (Notion or Obsidian) for coding + typing + personal goals.
+
+Fun & Dopamine Boosters Related to Your Interests
+
+    Build a small “anime episode tracker” app — input shows, mark watched episodes.
+
+    Create a terminal “random anime quote” generator with Python/bash.
+
+    Make a mini-game or text adventure inspired by your favorite anime characters using Python or Godot.
+
+    Join a coding or Linux community Discord and share your progress or tips.
+
+    Challenge yourself to solve 5 Linux command-line puzzles or exercises.
+
+    Explore a new Linux tool or command weekly (e.g., jq, fd, bat, fzf).
+
+    Write a script to automatically download wallpapers from your favorite anime art sites.
+
+Quick Mini Challenges (5–15 mins)
+
+    Refactor a function in your code to be cleaner and more efficient.
+
+    Customize your terminal prompt with colors and Git status.
+
+    Write a bash script that backs up a folder automatically.
+
+    Create a simple markdown cheat sheet for frequently used commands or code snippets.
+
+    Practice 10 minutes of touch typing focusing on accuracy over speed.
